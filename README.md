@@ -78,7 +78,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Prakriti**
+**Preeti Chandrakar**
 
 B.Tech CSE Student
 
