@@ -1,0 +1,30 @@
+# Database
+database/*.db
+*.db
+
+# Voice recordings
+voice_samples/
+voices/
+test_voice/
+temp/
+*.wav
+*.mp3
+
+# AI Models
+models/*.pkl
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VS Code
+tempCodeRunnerFile.py
